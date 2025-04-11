@@ -1,1 +1,1 @@
-Algorithm Notes, Implementations and problems for competitive programming 
+Algorithm Notes, Implementations and problems for competitive programming.
